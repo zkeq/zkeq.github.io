@@ -48,8 +48,8 @@ HTML               1 hr 54 mins    █▒░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
- <details hide>
- <summary>Hide or Show...</summary>
+<details hide>
+<summary>Hide or Show...</summary>
 
 ### 北海道恋人
 

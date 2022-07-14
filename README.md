@@ -2,12 +2,6 @@
 ## [Welcome](https://zkeq.xyz/%C2%B7index.htm) ✨ <a href="https://icodeq.com"><img src="https://komarev.com/ghpvc/?username=zkeq&color=blueviolet&style=flat-square&label=Nice+To+Meet+U"></a>
 
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zkeq&theme=algolia&row=2&column=3&no-frame=true" width="37%"/>
-<img src="https://stats.readme.icodeq.com/api?username=zkeq&show_icons=true&theme=radical&&hide_border=true" width="62%"/>
-</p>
-
-
 <a href="https://icodeq.com">
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zkeq&show_icons=true&theme=algolia&hide_border=true&langs_count=12" width="34%"/>

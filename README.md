@@ -16,7 +16,7 @@
 
 ###### 购得新域名：[zkeq.xyz](https://zkeq.xyz)  本页面已对接。
 
-<a href="https://dream-plan.cn"><img src="https://user-images.githubusercontent.com/62864752/155082301-d777c58f-d495-42d7-8dba-59ca844379e7.jpg"></a>
+<a href="https://dream-plan.cn"><img src="https://user-images.onmicrosoft.cn/155082301-d777c58f-d495-42d7-8dba-59ca844379e7.jpg"></a>
 
 <a href="https://icodeq.com">
 <img src="https://activity-graph.herokuapp.com/graph?username=Zkeq&theme=react-dark&hide_title=true&hide_border=true&area=true"/>
@@ -31,7 +31,7 @@
 
 -------------------
 
-![北海道恋人](https://user-images.githubusercontent.com/62864752/155082101-1d954bc2-bc4f-4baf-a0d1-fb85790972ee.jpg)
+![北海道恋人](https://user-images.onmicrosoft.cn/155082101-1d954bc2-bc4f-4baf-a0d1-fb85790972ee.jpg)
 
 ##### 作词 : 黑金雨
 
@@ -179,7 +179,7 @@
 
 -----------------------
 
-![想去海边](https://user-images.githubusercontent.com/62864752/155082551-97866e98-6615-4de1-9086-815762e5ab59.jpg)
+![想去海边](https://user-images.onmicrosoft.cn/155082551-97866e98-6615-4de1-9086-815762e5ab59.jpg)
 
 ##### 作词 : 灰鸿啊
 
@@ -317,7 +317,7 @@
 
 -------------------
 
-![風情萬種](https://user-images.githubusercontent.com/62864752/155082644-2f5a66d9-c284-4a6f-bbbb-6a0a7a498b12.jpg)
+![風情萬種](https://user-images.onmicrosoft.cn/155082644-2f5a66d9-c284-4a6f-bbbb-6a0a7a498b12.jpg)
 
 ##### 作词 : 周星星
 
@@ -447,7 +447,7 @@
 
 ---------------------
 
-![你有我](https://user-images.githubusercontent.com/62864752/155082831-fcb691c4-9860-40b4-b039-a52acdb15a65.jpg)
+![你有我](https://user-images.onmicrosoft.cn/155082831-fcb691c4-9860-40b4-b039-a52acdb15a65.jpg)
 
 ##### 作词 : 马嵩惟/浅紫
 
@@ -559,7 +559,7 @@
 
 ----------------------
 
-![爱就一个字](https://user-images.githubusercontent.com/62864752/155082919-34b6a81b-601b-4c1f-a410-d0783e473715.jpg)
+![爱就一个字](https://user-images.onmicrosoft.cn/155082919-34b6a81b-601b-4c1f-a410-d0783e473715.jpg)
 
 ###### 作词 : 陈家丽
 
@@ -683,7 +683,7 @@
 
 ---------------------
 
-![Love Story](https://user-images.githubusercontent.com/62864752/155082988-bfab9ad2-e850-4a99-9ec2-dc10fd5439b8.jpg)
+![Love Story](https://user-images.onmicrosoft.cn/155082988-bfab9ad2-e850-4a99-9ec2-dc10fd5439b8.jpg)
 
 ##### 作词 : Taylor Swift
 
@@ -905,7 +905,7 @@
 
 ---------------------------
 
-![溯](https://user-images.githubusercontent.com/62864752/155083144-382674dd-ec15-4b47-951d-c1ce7e4bb85c.png)
+![溯](https://user-images.onmicrosoft.cn/155083144-382674dd-ec15-4b47-951d-c1ce7e4bb85c.png)
 
 ##### 作词 : CORSAK胡梦周
 
@@ -1003,7 +1003,7 @@
 
 -------------------------------------
 
-![LILAC](https://user-images.githubusercontent.com/62864752/155083286-cc2700f0-ef80-4a2f-9f07-552d8d955780.jpg)
+![LILAC](https://user-images.onmicrosoft.cn/155083286-cc2700f0-ef80-4a2f-9f07-552d8d955780.jpg)
 
 ##### 作词 : IU
 
@@ -1266,7 +1266,7 @@
 
 ------------------------
 
-![至此](https://user-images.githubusercontent.com/62864752/155083361-7925a032-0091-4db5-9721-51311b91ffdb.jpg)
+![至此](https://user-images.onmicrosoft.cn/155083361-7925a032-0091-4db5-9721-51311b91ffdb.jpg)
 
 ##### 作词 : 少年佩/镜千
 
@@ -1358,7 +1358,7 @@
 
 ---------------------
 
-![由于时间与地域的关系](https://user-images.githubusercontent.com/62864752/155083406-12ef1af6-5aea-4962-a734-01daa18d5b1e.jpg)
+![由于时间与地域的关系](https://user-images.onmicrosoft.cn/155083406-12ef1af6-5aea-4962-a734-01daa18d5b1e.jpg)
 
 ##### 作词 : 少年佩/红鼻子小黑/李纤橙
 
@@ -1452,7 +1452,7 @@
 ##### 所属专辑：[极限17 影视原声专辑](https://music.163.com/album?id=80917535)
 --------------
 
-![17](https://user-images.githubusercontent.com/62864752/155083519-73aeb3eb-b71e-4214-8f69-185971f0a836.jpg)
+![17](https://user-images.onmicrosoft.cn/155083519-73aeb3eb-b71e-4214-8f69-185971f0a836.jpg)
 
 ##### 作词 : 代岳东
 
@@ -1618,7 +1618,7 @@
 
 --------------------------
 
-![时光，一如既往](https://user-images.githubusercontent.com/62864752/155083594-b8bf3e7f-2985-4c0f-9a87-adba08c26fd8.jpg)
+![时光，一如既往](https://user-images.onmicrosoft.cn/155083594-b8bf3e7f-2985-4c0f-9a87-adba08c26fd8.jpg)
 
 ##### 作词 : 镜千
 
@@ -1753,7 +1753,7 @@
 
 ------------
 
-![Distance](https://user-images.githubusercontent.com/62864752/155083646-a979b4c8-4309-4133-81d7-357bdd8735b4.jpg)
+![Distance](https://user-images.onmicrosoft.cn/155083646-a979b4c8-4309-4133-81d7-357bdd8735b4.jpg)
 
 ###### 作曲 : 少年佩
 
@@ -1777,7 +1777,7 @@
 
 -------------------
 
-### ![icon2](https://user-images.githubusercontent.com/62864752/155084342-df71f6ba-6e6f-4b13-8e2d-b8ecb236160d.png)你是我为数不多的骄傲
+### ![icon2](https://user-images.onmicrosoft.cn/155084342-df71f6ba-6e6f-4b13-8e2d-b8ecb236160d.png)你是我为数不多的骄傲
 
 ###### 官方现场MV 新年快乐
 
@@ -1803,7 +1803,7 @@
 
 -------------------
 
-![是初恋是心动是你](https://user-images.githubusercontent.com/62864752/155083786-418edb79-51a1-4dc3-ab83-d96ee9c5a31b.jpg)
+![是初恋是心动是你](https://user-images.onmicrosoft.cn/155083786-418edb79-51a1-4dc3-ab83-d96ee9c5a31b.jpg)
 
 ##### 作词 : 唐恬
 

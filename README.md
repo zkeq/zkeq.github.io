@@ -13,15 +13,11 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zkeq&show_icons=true&theme=algolia&hide_border=true&langs_count=12" width="34%"/>
   <img src="https://zkeq.xyz/Profile/article.svg" width="64.5%"/>
 </p>
-</a>
 
 
 ###### 购得新域名：[zkeq.xyz](https://zkeq.xyz)  本页面已对接。
 
 <a href="https://dream-plan.cn"><img src="https://user-images.githubusercontent.com/62864752/155082301-d777c58f-d495-42d7-8dba-59ca844379e7.jpg"></a>
-
-<details hide>
- <summary>Hide or Show...</summary>
 
 <a href="https://icodeq.com">
 <img src="https://activity-graph.herokuapp.com/graph?username=Zkeq&theme=react-dark&hide_title=true&hide_border=true&area=true"/>

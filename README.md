@@ -1,10 +1,12 @@
 [国内Github解析不稳定，同步更新Gitee（暗色）](https://zkeq.xyz/dark.html)
 ## [Welcome](https://zkeq.xyz/%C2%B7index.htm) ✨ <a href="https://icodeq.com"><img src="https://komarev.com/ghpvc/?username=zkeq&color=blueviolet&style=flat-square&label=Nice+To+Meet+U"></a>
 
-<a href="https://icodeq.com"><p align="center"><img src="https://github-profile-trophy.vercel.app/?username=zkeq&theme=algolia&row=2&column=3&no-frame=true" width="37%"/><img src="https://stats.readme.icodeq.com/api?username=zkeq&show_icons=true&theme=radical&&hide_border=true" width="62%"/></p></a>
 
-<details hide>
- <summary>About Me..</summary>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=zkeq&theme=algolia&row=2&column=3&no-frame=true" width="37%"/>
+<img src="https://stats.readme.icodeq.com/api?username=zkeq&show_icons=true&theme=radical&&hide_border=true" width="62%"/>
+</p>
+
 
 <a href="https://icodeq.com">
 <p align="center"> 
@@ -12,8 +14,6 @@
   <img src="https://zkeq.xyz/Profile/article.svg" width="64.5%"/>
 </p>
 </a>
-
-</details>
 
 
 ###### 购得新域名：[zkeq.xyz](https://zkeq.xyz)  本页面已对接。
@@ -27,26 +27,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=Zkeq&theme=react-dark&hide_title=true&hide_border=true&area=true"/>
 </a>
  
-<!--START_SECTION:waka-->
-
-```text
-From: 06 July 2022 - To: 13 July 2022
-
-Total Time: 38 hrs 25 mins
-
-JavaScript         14 hrs 54 mins  █████████▓░░░░░░░░░░░░░░░   38.78 %
-Python             9 hrs 56 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
-Markdown           5 hrs 54 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
-CSS                2 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-JSON               2 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-HTML               1 hr 54 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-```
-
-<!--END_SECTION:waka-->
-
-<details hide>
-<summary>Hide or Show...</summary>
-
+ 
 ### 北海道恋人
 
 ##### 歌手：[裘德](https://music.163.com/artist?id=12038239)
@@ -1915,6 +1896,3 @@ HTML               1 hr 54 mins    █▒░░░░░░░░░░░░░
 
 <audio id="bgmMusic" src="http://music.163.com/song/media/outer/url?id=1803629106.mp3" preload="auto" type="audio/mp3" controls=""></audio>
 
-</details>
-
-</details>

@@ -1,3 +1,4 @@
+<script type="text/javascript" src="https://player.dogecloud.com/js/loader"></script>
 [国内Github解析不稳定，同步更新Gitee（暗色）](https://zkeq.xyz/dark.html)
 ## [Welcome](https://zkeq.xyz/%C2%B7index.htm) ✨ <a href="https://icodeq.com"><img src="https://komarev.com/ghpvc/?username=zkeq&color=blueviolet&style=flat-square&label=Nice+To+Meet+U"></a>
 
@@ -997,9 +998,15 @@
 
 ###### 当前视频清晰度：1080P [HD]
 
-<video width="100%" height="100%" controls="">
-    <source src="https://media.onmicrosoft.cn/iu2.mp4" type="video/mp4" />
-</video>
+<div id="player_372bfab39c5539ca"></div>
+<script type="text/javascript">
+var player = new DogePlayer({
+    container: document.getElementById('player_372bfab39c5539ca'),
+    userId: 2220,
+    vcode: '372bfab39c5539ca',
+    autoPlay: false
+});
+</script>
 
 -------------------------------------
 
@@ -1243,17 +1250,29 @@
 
 ###### 当前视频清晰度：1080P [HD]
 
-<video width="100%" height="100%" controls="">
-    <source src="https://media.onmicrosoft.cn/iu.mp4" type="video/mp4" />
-</video>
+<div id="player_0e777d8000af8350"></div>
+<script type="text/javascript">
+var player = new DogePlayer({
+    container: document.getElementById('player_0e777d8000af8350'),
+    userId: 2220,
+    vcode: '0e777d8000af8350',
+    autoPlay: false
+});
+</script>
 
 
 --------------
 
 
-<video width="100%" height="100%" controls="">
-    <source src="https://media.onmicrosoft.cn/%E8%87%B3%E6%AD%A4.mp4" type="video/mp4" />
-</video>
+<div id="player_70b74ce7ae54aac1"></div>
+<script type="text/javascript">
+var player = new DogePlayer({
+    container: document.getElementById('player_70b74ce7ae54aac1'),
+    userId: 2220,
+    vcode: '70b74ce7ae54aac1',
+    autoPlay: false
+});
+</script>
 
 
 ### 至此
@@ -1590,21 +1609,39 @@
 
 ### 时光，一如既往
 
-<video width="100%" height="100%" controls="">
-    <source src="https://media.onmicrosoft.cn/%E6%97%B6%E5%85%89%EF%BC%8C%E4%B8%80%E5%A6%82%E6%97%A2%E5%BE%80.mp4" type="video/mp4" />
-</video>
+<div id="player_c85bdf321a0f623f"></div>
+<script type="text/javascript">
+var player = new DogePlayer({
+    container: document.getElementById('player_c85bdf321a0f623f'),
+    userId: 2220,
+    vcode: 'c85bdf321a0f623f',
+    autoPlay: false
+});
+</script>
 
 ### 这是你想要的生活吗
 
-<video width="100%" height="100%" controls="">
-    <source src="https://media.onmicrosoft.cn/%E8%BF%99%E6%98%AF%E4%BD%A0%E6%83%B3%E8%A6%81%E7%9A%84%E7%94%9F%E6%B4%BB%E5%90%97-Live%E7%89%88.mp4" type="video/mp4" />
-</video>
+<div id="player_16aa9105e33b73ba"></div>
+<script type="text/javascript">
+var player = new DogePlayer({
+    container: document.getElementById('player_16aa9105e33b73ba'),
+    userId: 2220,
+    vcode: '16aa9105e33b73ba',
+    autoPlay: false
+});
+</script>
 
 #### 云村听歌会
 
-<video width="100%" height="100%" controls="">
-    <source src="https://media.onmicrosoft.cn/%E8%BF%99%E6%98%AF%E4%BD%A0%E6%83%B3%E8%A6%81%E7%9A%84%E7%94%9F%E6%B4%BB%E5%90%97.mp4" type="video/mp4" />
-</video>
+<div id="player_f0679e14265c9f39"></div>
+<script type="text/javascript">
+var player = new DogePlayer({
+    container: document.getElementById('player_f0679e14265c9f39'),
+    userId: 2220,
+    vcode: 'f0679e14265c9f39',
+    autoPlay: false
+});
+</script>
 
 ----------------------------
 
@@ -1783,9 +1820,15 @@
 
 ---------------------------------
 
-<video width="100%" height="100%" controls="">
-    <source src="https://media.onmicrosoft.cn/%E4%BD%A0%E6%98%AF%E6%88%91%E4%B8%BA%E6%95%B0%E4%B8%8D%E5%A4%9A%E7%9A%84%E9%AA%84%E5%82%B2.mp4" type="video/mp4" />
-</video>
+<div id="player_73ca1ab71afa7f6f"></div>
+<script type="text/javascript">
+var player = new DogePlayer({
+    container: document.getElementById('player_73ca1ab71afa7f6f'),
+    userId: 2220,
+    vcode: '73ca1ab71afa7f6f',
+    autoPlay: false
+});
+</script>
 
 ----------------------------
 
